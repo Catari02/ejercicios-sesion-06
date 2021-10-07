@@ -29,4 +29,10 @@ h3.movido{
 	animation: shake-it-off .2s infinite;
 }
 
-a{color: #002171;}
+a:link, a:visited {
+	color: #FD8469;
+  }
+  
+  a:hover, a:active {
+	color: #ff3305;
+  }
